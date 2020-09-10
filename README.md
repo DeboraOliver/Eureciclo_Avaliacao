@@ -73,9 +73,7 @@ Se mesmo assim não encontrarmos o menor número de garrafas que satisfaçam os 
 	    n-=1
 	    
 
-##Lógica
 
-O arquivo Algorithm.png mostra o desenho da solução.
 
 Obrigada!
          
